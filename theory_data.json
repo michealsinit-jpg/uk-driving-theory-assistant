@@ -1,0 +1,516 @@
+
+{
+
+    "speed limit": {
+
+        "category": "speed",
+
+        "answer": "The national speed limit on a motorway is 70mph."
+
+    },
+
+    "seat belt": {
+
+        "category": "safety",
+
+        "answer": "You must wear a seat belt unless exempt."
+
+    },
+
+    "mobile phone": {
+
+        "category": "safety",
+
+        "answer": "It is illegal to use a handheld mobile phone while driving."
+
+    },
+
+    "traffic lights": {
+
+        "category": "signals",
+
+        "answer": "Red means stop, amber means stop if safe, green means go."
+
+    
+
+    
+
+    },
+
+    "motorway": {
+
+        "category": "roads",
+
+        "answer": "Motorways are identified by blue signs."
+
+    },
+
+    "drink driving": {
+
+        "category": "safety",
+
+        "answer": "Never drive after consuming alcohol above the legal limit."
+
+    
+
+
+    },
+
+    "stopping distance": {
+
+        "category": "safety",
+
+        "answer": "Stopping distance is thinking distance plus braking distance."
+
+    },
+
+    "blind spot": {
+
+        "category": "safety",
+
+        "answer": "Always check blind spots before changing lanes."
+
+    },
+
+    "speed limit motorway": {
+
+        "category": "speed",
+
+        "answer": "The national speed limit on a motorway is 70 mph unless signs show otherwise."
+
+    },
+
+    "speed limit dual carriageway": {
+
+        "category": "speed",
+
+        "answer": "The national speed limit for cars on a dual carriageway is 70 mph."
+
+    },
+
+    "speed limit single carriageway": {
+
+        "category": "speed",
+
+        "answer": "The national speed limit for cars on a single carriageway is 60 mph."
+
+    },
+
+    "built up area speed limit": {
+
+        "category": "speed",
+
+        "answer": "The speed limit is usually 30 mph unless signs indicate otherwise."
+
+    },
+
+    "speeding": {
+
+        "category": "speed",
+
+        "answer": "Speeding increases the risk of collisions and reduces reaction time."
+
+    },
+
+    "give way sign": {
+
+        "category": "signs",
+
+        "answer": "You must give priority to traffic on the main road."
+
+    },
+
+    "stop sign": {
+
+        "category": "signs",
+
+        "answer": "You must stop completely before proceeding."
+
+    },
+
+    "no entry sign": {
+
+        "category": "signs",
+
+        "answer": "Vehicles must not enter beyond this sign."
+
+    },
+
+    "national speed limit sign": {
+
+        "category": "signs",
+
+        "answer": "This sign indicates that the national speed limit applies."
+
+    },
+
+    "warning signs": {
+
+        "category": "signs",
+
+        "answer": "Warning signs are usually triangular with a red border."
+
+    },
+
+    "zebra crossing": {
+
+        "category": "crossings",
+
+        "answer": "Give way to pedestrians waiting to cross."
+
+    },
+
+    "pelican crossing": {
+
+        "category": "crossings",
+
+        "answer": "Pedestrians control the crossing using push-button signals."
+
+    },
+
+    "puffin crossing": {
+
+        "category": "crossings",
+
+        "answer": "Sensors detect pedestrians and control the crossing time."
+
+    },
+
+    "toucan crossing": {
+
+        "category": "crossings",
+
+        "answer": "Both pedestrians and cyclists may use this crossing."
+
+    },
+
+    "school crossing patrol": {
+
+        "category": "crossings",
+
+        "answer": "You must stop when instructed by the patrol."
+
+    },
+
+    "dual carriageway": {
+
+        "category": "roads",
+
+        "answer": "A road with a central reservation separating traffic."
+
+    },
+
+    "roadworks": {
+
+        "category": "roads",
+
+        "answer": "Obey temporary signs, signals and speed limits."
+
+    },
+
+    "hard shoulder": {
+
+        "category": "roads",
+
+        "answer": "Use only in emergencies unless signs indicate otherwise."
+
+    },
+
+    "one way street": {
+
+        "category": "roads",
+
+        "answer": "Traffic may travel in one direction only."
+
+    },
+
+    "country roads": {
+
+        "category": "roads",
+
+        "answer": "Be prepared for sharp bends, animals and slow-moving vehicles."
+
+    },
+
+    "roundabout": {
+
+        "category": "junctions",
+
+        "answer": "Give priority to traffic approaching from the right."
+
+    },
+
+    "mini roundabout": {
+
+        "category": "junctions",
+
+        "answer": "Drive around the central marking and give way to traffic from the right."
+
+    },
+
+    "box junction": {
+
+        "category": "junctions",
+
+        "answer": "Do not enter unless your exit road is clear."
+
+    },
+
+    "t junction": {
+
+        "category": "junctions",
+
+        "answer": "Give way to traffic on the main road."
+
+    },
+
+    "crossroads": {
+
+        "category": "junctions",
+
+        "answer": "Watch carefully for traffic from all directions."
+
+    },
+
+    "tyre pressure": {
+
+        "category": "vehicle",
+
+        "answer": "Check tyre pressure regularly for safety and fuel efficiency."
+
+    },
+
+    "headlights": {
+
+        "category": "vehicle",
+
+        "answer": "Use headlights at night and when visibility is poor."
+
+    },
+
+    "fog lights": {
+
+        "category": "vehicle",
+
+        "answer": "Use them when visibility is seriously reduced."
+
+    },
+
+    "indicators": {
+
+        "category": "vehicle",
+
+        "answer": "Use indicators to signal your intentions to other road users."
+
+    },
+
+    "brakes": {
+
+        "category": "vehicle",
+
+        "answer": "Ensure your brakes are working correctly before driving."
+
+    },
+
+    "motorway lane discipline": {
+
+        "category": "motorway",
+
+        "answer": "Keep left unless overtaking."
+
+    },
+
+    "motorway signs": {
+
+        "category": "motorway",
+
+        "answer": "Motorways are identified by blue signs."
+
+    },
+
+    "joining motorway": {
+
+        "category": "motorway",
+
+        "answer": "Use the slip road to build up speed before merging."
+
+    },
+
+    "leaving motorway": {
+
+        "category": "motorway",
+
+        "answer": "Move into the left lane in good time and follow the exit signs."
+
+    },
+
+    "emergency areas": {
+
+        "category": "motorway",
+
+        "answer": "On smart motorways, emergency areas are provided for breakdowns."
+    
+    },
+
+    "following distance": {
+
+    "category": "safety",
+
+    "answer": "Use the two-second rule in dry conditions and at least double it in wet conditions."
+
+},
+
+"icy roads": {
+
+    "category": "safety",
+
+    "answer": "Increase your following distance and drive more slowly."
+
+},
+
+"fatigue": {
+
+    "category": "safety",
+
+    "answer": "Stop and rest if you feel tired while driving."
+
+},
+
+"mirrors": {
+
+    "category": "safety",
+
+    "answer": "Check mirrors regularly and before changing speed or direction."
+
+},
+
+"children in cars": {
+
+    "category": "safety",
+
+    "answer": "Children must use an appropriate child seat until legally exempt."
+
+},
+
+"overtaking": {
+
+    "category": "roads",
+
+    "answer": "Only overtake when it is safe and legal to do so."
+
+},
+
+"tram crossing": {
+
+    "category": "roads",
+
+    "answer": "Take extra care and obey all signs and signals."
+
+},
+
+"road markings": {
+
+    "category": "roads",
+
+    "answer": "Road markings provide important information and guidance to drivers."
+
+},
+
+"lane closure": {
+
+    "category": "roads",
+
+    "answer": "Move into an open lane safely and in good time."
+
+},
+
+"rural roads": {
+
+    "category": "roads",
+
+    "answer": "Be aware of hidden junctions, bends and animals."
+
+},
+
+"amber traffic light": {
+
+    "category": "signals",
+
+    "answer": "Amber means stop unless it is unsafe to do so."
+
+},
+
+"green traffic light": {
+
+    "category": "signals",
+
+    "answer": "Green means you may proceed if the way is clear."
+
+},
+
+"flashing amber beacon": {
+
+    "category": "signals",
+
+    "answer": "Warns of a hazard ahead such as a school crossing."
+
+},
+
+"left turn signal": {
+
+    "category": "signals",
+
+    "answer": "Signal in good time before turning left."
+
+},
+
+"right turn signal": {
+
+    "category": "signals",
+
+    "answer": "Signal clearly before turning right."
+
+},
+
+"parking on a hill": {
+
+    "category": "vehicle",
+
+    "answer": "Apply the handbrake and turn the wheels appropriately."
+
+},
+
+"windscreen": {
+
+    "category": "vehicle",
+
+    "answer": "Keep the windscreen clean and free from obstructions."
+
+},
+
+"engine oil": {
+
+    "category": "vehicle",
+
+    "answer": "Check engine oil regularly and maintain the correct level."
+
+},
+
+"battery warning light": {
+
+    "category": "vehicle",
+
+    "answer": "It may indicate a charging system fault."
+
+},
+
+"tyre tread": {
+
+    "category": "vehicle",
+
+    "answer": "The minimum legal tread depth is 1.6 mm across the central three-quarters of the tyre."
+
+}
+
+}
+

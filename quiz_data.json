@@ -1,0 +1,203 @@
+[
+
+  {
+
+    "question": "What is the national speed limit on a motorway?",
+
+    "options": {
+
+      "A": "50 mph",
+
+      "B": "60 mph",
+
+      "C": "70 mph",
+
+      "D": "80 mph"
+
+    },
+
+    "correct": "C"
+
+  },
+
+  {
+
+    "question": "What does a red traffic light mean?",
+
+    "options": {
+
+      "A": "Slow down",
+
+      "B": "Stop",
+
+      "C": "Proceed with caution",
+
+      "D": "Give way"
+
+    },
+
+    "correct": "B"
+
+  },
+
+  {
+
+    "question": "What should you do before changing lanes?",
+
+    "options": {
+
+      "A": "Sound your horn",
+
+      "B": "Speed up",
+
+      "C": "Check mirrors and blind spots",
+
+      "D": "Flash headlights"
+
+    },
+
+    "correct": "C"
+
+  },
+
+  {
+
+    "question": "What is the usual speed limit in a built-up area?",
+
+    "options": {
+
+      "A": "20 mph",
+
+      "B": "30 mph",
+
+      "C": "40 mph",
+
+      "D": "50 mph"
+
+    },
+
+    "correct": "B"
+
+  },
+
+  {
+
+    "question": "What shape are warning signs usually?",
+
+    "options": {
+
+      "A": "Circular",
+
+      "B": "Rectangular",
+
+      "C": "Triangular",
+
+      "D": "Octagonal"
+
+    },
+
+    "correct": "C"
+
+  },
+
+  {
+
+    "question": "What should you do at a Give Way sign?",
+
+    "options": {
+
+      "A": "Stop completely",
+
+      "B": "Give priority to traffic on the main road",
+
+      "C": "Sound your horn",
+
+      "D": "Accelerate"
+
+    },
+
+    "correct": "B"
+
+  },
+
+  {
+
+    "question": "What should you do if you feel tired while driving?",
+
+    "options": {
+
+      "A": "Open a window and continue",
+
+      "B": "Drink coffee and continue",
+
+      "C": "Stop and rest",
+
+      "D": "Drive faster"
+
+    },
+
+    "correct": "C"
+
+  },
+
+  {
+
+    "question": "What colour are motorway signs?",
+
+    "options": {
+
+      "A": "Green",
+
+      "B": "Red",
+
+      "C": "Blue",
+
+      "D": "Yellow"
+
+    },
+
+    "correct": "C"
+
+  },
+
+  {
+
+    "question": "What is the minimum legal tyre tread depth?",
+
+    "options": {
+
+      "A": "1.0 mm",
+
+      "B": "1.6 mm",
+
+      "C": "2.0 mm",
+
+      "D": "2.5 mm"
+
+    },
+
+    "correct": "B"
+
+  },
+
+  {
+
+    "question": "When may you use a handheld mobile phone while driving?",
+
+    "options": {
+
+      "A": "In slow traffic",
+
+      "B": "At night",
+
+      "C": "When wearing headphones",
+
+      "D": "Never"
+
+    },
+
+    "correct": "D"
+
+  }
+
+]
